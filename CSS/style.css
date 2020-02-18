@@ -18,3 +18,17 @@ table {
 h3 {
     color: #ff0000;
 }
+
+.profilePic {
+    width: 180px;
+    border-radius: 100%;
+}
+
+.profilePic:hover {
+    width: 200%;
+}
+
+h1:hover {
+    color: red;
+    font-size: 200%;
+}
