@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: black;
+    color: greenyellow;
+}
+
+hr {
+    border-style: dotted none none none;
+    height: 1px;
+    color: red;
+}
+
+table {
+    border-style: solid;
+    height: 1px;
+}
+
+h3 {
+    color: #ff0000;
+}
