@@ -1,0 +1,161 @@
+body {
+    background-color: #445D7B;
+    margin: 0px 0px 0px 0px;
+}
+
+.name {
+    font-family: 'Caveat', serif;
+    font-size: 4rem;
+    color: #A9B3C1;
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+.title {
+    font-family: 'Satisfy', serif;
+    margin-top: 2px;
+    color: burlywood;
+    font-size: 2rem;
+}
+
+.name-position {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.middle-section {
+    text-align: center;
+}
+
+.profile {
+    color: azure;
+    font-family: 'Simonetta', serif;
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.section-picture {
+    border-radius: 100%;
+    margin: auto;
+}
+
+.skill-picture-1 {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.skill-picture-2 {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.skill-row {
+    color: azure;
+    font-family: 'Simonetta', serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+
+.subskill-title {
+    color: darkseagreen;
+    font-family: 'Roboto Mono', sans-serif;
+    margin-right: auto;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+}
+
+.section-titles {
+    color: burlywood;
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 2rem;
+}
+
+hr {
+    margin: 10% auto 10% auto;
+    width: 10%;
+    color: darkgrey;
+    border-top: dotted 3px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 0px auto 0px auto;
+}
+
+.contact-title {
+    color: burlywood;
+    font-family: 'Satisfy', serif;
+    text-align: center;
+    line-height: 5;
+    margin: 0px auto 0% auto;
+    font-size: 2.5rem;
+}
+
+.back-title {
+    color: darkseagreen;
+    font-family: 'Roboto Mono', sans-serif;
+    text-align: center;
+    text-decoration: solid;
+    margin: 0px auto 7% auto;
+    font-size: 1.5rem;
+}
+
+.back-content {
+    color: azure;
+    font-family: 'Simonetta', serif;
+    text-align: center;
+    margin: 0px auto 7% auto;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.contact-me-btn {
+    font-family: 'Simonetta', serif;
+    margin: 0px auto 7% auto;
+    color: azure;
+    border: 0px;
+    line-height: 2;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 0% 1% 0% 1%;
+    width: 25%;
+    height: 50%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    background-color: cornflowerblue;
+}
+
+.bottom-section {
+    padding: 5% 5% 5% 5%;
+    text-align: center;
+    background-color: #A9B3C1;
+}
+
+.bottom-footer {
+    padding: 2% 2% 2% 2%;
+    text-decoration: none;
+    color: teal;
+    font-size: 1rem;
+}
+
+.copyright {
+    padding-top: 3%;
+}
