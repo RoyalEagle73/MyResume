@@ -36,6 +36,12 @@
     background-color: #e1f2fb;
 }
 
+.skills-item-title {
+    font-size: 1.5rem;
+    font-family: 'Simonetta', serif;
+    font-weight: bold;
+}
+
 .education {
     padding: 5%;
     background-color: #f1f9f9;
