@@ -1,161 +1,97 @@
-body {
-    background-color: #445D7B;
-    margin: 0px 0px 0px 0px;
+.checked {
+    color: orange;
 }
 
-.name {
+.home-title {
     font-family: 'Caveat', serif;
+    font-weight: bold;
+    font-size: 5rem;
+    margin-top: 15%;
+    margin-bottom: 0%;
+}
+
+.home-content {
+    font-size: 3rem;
+    font-family: 'Satisfy', serif;
+    padding: 5%;
+    padding-top: 0%;
+    padding-left: 0%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.home-image {
+    width: 100%;
+    height: 100%;
+    padding-top: 10%;
+    padding-left: 4%;
+}
+
+.whoAmI-item {
+    text-align: center;
+}
+
+.home {
+    padding: 5%;
+    background-color: #e1f2fb;
+}
+
+.education {
+    padding: 5%;
+    background-color: #f1f9f9;
+    text-align: center;
+}
+
+.skills {
+    padding: 5%;
+    background-color: #f3dfe3;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Caveat', serif;
+    font-weight: bold;
     font-size: 4rem;
-    color: #A9B3C1;
-    margin-top: 0;
-    margin-bottom: 2px;
 }
 
-.title {
-    font-family: 'Satisfy', serif;
-    margin-top: 2px;
-    color: burlywood;
-    font-size: 2rem;
-}
-
-.name-position {
-    text-align: center;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-.middle-section {
+.div-title {
+    padding: 3%;
     text-align: center;
 }
 
-.profile {
-    color: azure;
-    font-family: 'Simonetta', serif;
-    margin-top: 100px;
+.contact {
+    padding: 5%;
+    background-color: #e9b2bc;
     text-align: center;
-    line-height: 2;
-    width: 50%;
-    margin: 100px auto 100px auto;
 }
 
-.section-picture {
-    border-radius: 100%;
-    margin: auto;
+img {
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    padding: 5%;
 }
 
-.skill-picture-1 {
-    width: 25%;
-    height: 25%;
-    float: left;
-    margin-right: 20px;
-}
-
-.skill-picture-2 {
-    width: 25%;
-    height: 25%;
-    float: right;
-    margin-left: 20px;
-}
-
-.skill-row {
-    color: azure;
-    font-family: 'Simonetta', serif;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    line-height: 2;
-    text-align: left;
-}
-
-.subskill-title {
-    color: darkseagreen;
+.education-item-title {
     font-family: 'Roboto Mono', sans-serif;
-    margin-right: auto;
-    width: 50%;
-    line-height: 2;
-    text-align: left;
-}
-
-.section-titles {
-    color: burlywood;
-    font-family: 'Roboto Mono', sans-serif;
-    font-size: 2rem;
-}
-
-hr {
-    margin: 10% auto 10% auto;
-    width: 10%;
-    color: darkgrey;
-    border-top: dotted 3px;
-    border-left: 0px;
-    border-bottom: 0px;
-    border-right: 0px;
-}
-
-.contact-me {
-    width: 50%;
-    margin: 0px auto 0px auto;
-}
-
-.contact-title {
-    color: burlywood;
-    font-family: 'Satisfy', serif;
-    text-align: center;
-    line-height: 5;
-    margin: 0px auto 0% auto;
-    font-size: 2.5rem;
-}
-
-.back-title {
-    color: darkseagreen;
-    font-family: 'Roboto Mono', sans-serif;
-    text-align: center;
-    text-decoration: solid;
-    margin: 0px auto 7% auto;
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
-.back-content {
-    color: azure;
-    font-family: 'Simonetta', serif;
-    text-align: center;
-    margin: 0px auto 7% auto;
-    font-size: 1.2rem;
-    line-height: 2;
-}
-
-.contact-me-btn {
-    font-family: 'Simonetta', serif;
-    margin: 0px auto 7% auto;
-    color: azure;
-    border: 0px;
-    line-height: 2;
-    text-align: center;
+.whoAmI-item-title {
+    font-family: 'Roboto Mono', sans-serif;
     font-size: 1.5rem;
-    padding: 0% 1% 0% 1%;
-    width: 25%;
-    height: 50%;
-    border-top-left-radius: 5%;
-    border-top-right-radius: 5%;
-    border-bottom-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    background-color: cornflowerblue;
+    font-weight: bold;
 }
 
-.bottom-section {
-    padding: 5% 5% 5% 5%;
-    text-align: center;
-    background-color: #A9B3C1;
-}
-
-.bottom-footer {
-    padding: 2% 2% 2% 2%;
-    text-decoration: none;
-    color: teal;
+.education-item-content {
+    font-family: 'Simonetta', serif;
     font-size: 1rem;
+    font-weight: bold;
 }
 
-.copyright {
-    padding-top: 3%;
+.whoAmI-item-content {
+    font-family: 'Simonetta', serif;
+    font-size: 1rem;
+    font-weight: bold;
 }
