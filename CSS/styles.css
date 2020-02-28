@@ -1,3 +1,11 @@
+html,
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
 .checked {
     color: orange;
 }
@@ -34,6 +42,12 @@
 .home {
     padding: 5%;
     background-color: #e1f2fb;
+}
+
+.skills-item-title {
+    font-size: 1.5rem;
+    font-family: 'Simonetta', serif;
+    font-weight: bold;
 }
 
 .education {
